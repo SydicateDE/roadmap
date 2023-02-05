@@ -1,21 +1,23 @@
-# Rewrite
-waybar
-sway-launcher-desktop
-manjaro-sway-settings
-swaylock-effects
-bluetooth manager
+# Our RDI concept
 
-# Decide
-autotiling
-greetd
-greetd-tuigreet
-wlsunset
-nwg-wrapper
-swaycwd
-swayr
+### Rewrite
+* [ ] waybar
+* [ ] sway-launcher-desktop
+* [ ] manjaro-sway-settings
+* [ ] swaylock-effects
+* [ ] bluetooth manager
 
-# Invade
-sworkstyle
-https://github.com/SeaDve/Kooha
-wluma
-gtk3-nocsd
+### Decide
++ autotiling
++ greetd
++ greetd-tuigreet
++ wlsunset
++ nwg-wrapper
++ swaycwd
++ swayr
+
+### Invade
+- sworkstyle
+- https://github.com/SeaDve/Kooha
+- wluma
+- gtk3-nocsd
