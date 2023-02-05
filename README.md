@@ -1,6 +1,7 @@
 # Our RDI concept
 
 ### Rewrite
+* [ ] de/wm config 
 * [ ] bar
 * [ ] app launcher
 * [ ] lock effects
