@@ -3,7 +3,6 @@
 ### Rewrite
 * [ ] waybar
 * [ ] sway-launcher-desktop
-* [ ] manjaro-sway-settings
 * [ ] swaylock-effects
 * [ ] bluetooth manager
 
