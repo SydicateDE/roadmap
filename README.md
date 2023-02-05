@@ -4,6 +4,8 @@
 * [ ] de/wm config 
 * [ ] bar
 * [ ] app launcher
+* [ ] dock
+* [ ] control center
 * [ ] lock effects
 * [ ] menu for base commands
 * [ ] gtk theming configuration
@@ -17,6 +19,7 @@
 + nwg-wrapper
 + swaycwd
 + swayr
++ ddcutils
 
 ### Invade
 - sworkstyle
