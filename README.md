@@ -1,9 +1,11 @@
 # Our RDI concept
 
 ### Rewrite
-* [ ] waybar
-* [ ] sway-launcher-desktop
-* [ ] swaylock-effects
+* [ ] bar
+* [ ] app launcher
+* [ ] lock effects
+* [ ] menu for base commands
+* [ ] gtk theming configuration
 * [ ] bluetooth manager
 
 ### Decide
